@@ -1,0 +1,44 @@
+#card {
+    max-height: 650px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+html {
+    font-family: "Roboto", sans serif;
+    font-weight: 200;
+}
+
+h1, h5, p {
+    font-weight: 300;
+}
+
+p {
+    font-size: 18px;
+    display: inline;
+}
+
+.detail {
+    font-weight: 400;
+}
+
+a {
+    font-weight: 300;
+}
+
+#nextregion {
+    height: 650px;
+    width: 60px;
+}
+
+#nextregion:hover {
+    background: #f5f5f5;
+}
+
